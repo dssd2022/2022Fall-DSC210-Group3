@@ -4,7 +4,7 @@
   - snap
   - cvxpy(with OSQP >= 0.4.1, ECOS >= 2, SCS >= 1.1.6)
   - time
-  - snapvx(The latest source code of snapvx from https://github.com/snap-stanford/snapvx is out of date, without renewal these days. So we've written a copy which is suitable to run our project code now. The installation could be finished in the RUNME.ipynb.)
+  - snapvx(The latest source code of snapvx from https://github.com/snap-stanford/snapvx is out of date, without renewal these days. So we've written a copy which is suitable to run our project. The installation could be finished in the RUNME.ipynb.)
 
 * Open RUNME.ipynb and run all the cells of the notebook.
 
